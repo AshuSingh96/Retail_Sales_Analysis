@@ -47,7 +47,7 @@ This project focuses on analyzing retail sales data to extract valuable insights
 
 Below is an example of the interactive Power BI dashboard created for this project:
 
-![Power BI Dashboard](./dashboard_screenshot.png)
+![Power BI Dashboard](./Retail Sales Analysis_page-0001.jpg)
 
 This dashboard visualizes:
 - Total sales trends over time.
